@@ -1,3 +1,3 @@
-httpx[http2]~=0.18.2
+httpx[http2]
 pydantic
 tea~=0.1.4
